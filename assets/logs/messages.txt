@@ -1,0 +1,9 @@
+2019-09-19 19:50:45	jordan	http://dev.chelseyandjordanphotography.com/processwire/module/	Creating table: process_forgot_password
+2019-09-19 22:31:41	jordan	http://dev.chelseyandjordanphotography.com/processwire/setup/template/removeFields	Deleted field "home_imageSpread" data in 1 row(s) from 1 page(s) using template "home". [page-by-page]
+2019-09-22 15:26:26	jordan	http://dev.chelseyandjordanphotography.com/processwire/setup/field/save	Deleted field "headlineLockUp" data in 1 row(s) from 1 page(s) using template "repeater_pageBuilder". [page-by-page]
+2019-09-25 21:30:00	jordan	http://dev.chelseyandjordanphotography.com/processwire/page/sort/	Updated sort for 5 pages
+2019-10-14 22:13:47	jordan	http://dev.chelseyandjordanphotography.com/processwire/setup/field/send-templates-save?id=103	Deleted field "seo_image" data in 0 row(s) from 0 page(s) using template "basic-page". [page-by-page]
+2019-10-14 22:13:47	jordan	http://dev.chelseyandjordanphotography.com/processwire/setup/field/send-templates-save?id=103	Deleted field "seo_image" data in 0 row(s) from 0 page(s) using template "blog-lister". [page-by-page]
+2019-10-14 22:13:47	jordan	http://dev.chelseyandjordanphotography.com/processwire/setup/field/send-templates-save?id=103	Deleted field "seo_image" data in 0 row(s) from 0 page(s) using template "blog-post". [page-by-page]
+2019-10-14 22:13:47	jordan	http://dev.chelseyandjordanphotography.com/processwire/setup/field/send-templates-save?id=103	Deleted field "seo_image" data in 0 row(s) from 0 page(s) using template "contact". [page-by-page]
+2019-10-14 22:13:47	jordan	http://dev.chelseyandjordanphotography.com/processwire/setup/field/send-templates-save?id=103	Deleted field "seo_image" data in 0 row(s) from 0 page(s) using template "home". [page-by-page]

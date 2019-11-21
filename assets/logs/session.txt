@@ -1,0 +1,77 @@
+2019-08-15 21:09:41	guest	http://dev.chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'jordan' - Invalid password
+2019-08-15 21:09:48	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-09-18 22:24:45	guest	http://dev.chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'jordan' - Invalid password
+2019-09-18 22:25:01	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-09-18 23:34:45	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-09-19 12:08:34	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-09-19 19:45:53	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-09-20 22:02:32	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-09-22 15:07:52	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-09-22 17:51:47	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/?id=1	Successful login for 'jordan'
+2019-09-23 20:00:00	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-09-25 20:30:36	guest	http://dev.chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'jordanb' - Unknown user
+2019-09-25 20:30:43	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-09-30 21:15:15	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/?id=1015	Successful login for 'jordan'
+2019-10-01 19:11:46	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/?id=1015	Successful login for 'jordan'
+2019-10-02 21:36:31	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-02 23:23:55	?	?	User 'jordan' - Error: Session fingerprint changed (IP address or useragent) (IP: 208.102.44.211)
+2019-10-02 23:26:24	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-04 19:57:18	guest	http://dev.chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'jordan' - Invalid password
+2019-10-04 19:57:22	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-07 19:23:38	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-07 22:22:36	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/?id=1062	Successful login for 'jordan'
+2019-10-08 21:40:47	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-09 19:51:25	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/?id=1063	Successful login for 'jordan'
+2019-10-13 19:46:09	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-14 21:29:48	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/?id=1064	Successful login for 'jordan'
+2019-10-14 23:06:00	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-15 09:50:17	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-15 18:59:02	chelsey	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-10-16 21:01:57	guest	http://dev.chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'jordanb' - Unknown user
+2019-10-16 21:02:05	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-17 08:07:05	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-17 21:17:15	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-18 08:29:58	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-18 12:53:03	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-18 12:56:05	?	?	User 'jordan' - Error: Session fingerprint changed (IP address or useragent) (IP: 66.42.213.227)
+2019-10-18 12:56:10	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-21 19:29:55	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-21 22:11:28	chelsey	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-10-22 12:32:42	chelsey	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-10-23 18:29:51	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/?id=1065	Successful login for 'jordan'
+2019-10-23 19:00:28	chelsey	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-10-23 19:50:51	jordan	http://dev.chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-23 21:14:55	guest	https://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'jordan' - Invalid password
+2019-10-23 21:15:02	jordan	https://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-24 12:52:28	jordan	https://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-27 22:28:01	guest	http://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'chelsey' - Invalid password
+2019-10-27 22:28:14	guest	http://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'chelsey' - Invalid password
+2019-10-27 22:28:34	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-10-28 09:52:54	guest	http://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'chelsey' - Invalid password
+2019-10-28 09:53:24	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-10-28 10:02:06	jordan	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-28 13:20:38	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-10-28 13:31:37	jordan	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-29 08:13:55	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-10-29 08:33:33	jordan	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-29 11:13:42	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-10-29 11:31:53	guest	https://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'chelsey' - Invalid password
+2019-10-29 11:31:54	guest	https://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'chelsey' - Invalid password
+2019-10-29 20:43:53	jordan	https://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-10-30 07:51:49	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-11-06 23:12:43	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-11-07 00:13:34	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-11-08 15:59:37	jordan	https://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-11-08 16:25:38	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-11-11 10:18:56	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-11-18 12:46:57	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
+2019-11-18 13:31:46	jordan	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-11-19 08:27:15	jordan	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-11-20 13:35:51	guest	http://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'jordanb' - Unknown user
+2019-11-20 13:35:57	jordan	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-11-20 19:21:32	jordan	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'jordan'
+2019-11-20 20:09:44	guest	http://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'chelsey' - Invalid password
+2019-11-20 20:10:12	guest	http://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'chelsey' - Invalid password
+2019-11-20 20:10:28	guest	http://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'chelsey' - Invalid password
+2019-11-20 20:10:33	guest	http://chelseyandjordanphotography.com/processwire/login/	Error: Failed login for 'chelsey' - Blocked login attempt
+2019-11-20 20:11:39	chelsey	http://chelseyandjordanphotography.com/processwire/login/	Successful login for 'chelsey'
